@@ -1,0 +1,13 @@
+cerebras-cloud-sdk
+firecrawl-py
+google-genai
+ipython
+openai
+playwright
+pydantic
+python-dotenv
+requests
+rich
+supabase
+resend
+ollama
