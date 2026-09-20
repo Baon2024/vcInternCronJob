@@ -1,0 +1,6 @@
+/vc
+.env
+/_pycache
+/landmap
+/tourWebsite
+/.pnpm-store
